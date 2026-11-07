@@ -1,0 +1,941 @@
+window.SKATE_DATA = {
+  "athletes": {
+    "team": "Gina ZEHNDER / Beda Leon SIEBER",
+    "nation": "SUI",
+    "discipline": "Ice Dance",
+    "isu_id": "isufs00107924",
+    "isu_bio": "https://results.isu.org/bios/isufs00107924.htm",
+    "skaters": [
+      {
+        "name": "Gina ZEHNDER",
+        "birthdate": "2005-08-05",
+        "birthplace": "Zürich",
+        "hometown": "Küsnacht, ZH",
+        "height_cm": 169,
+        "club": "Eislaufclub Küsnacht ZH",
+        "skating_since": 2009
+      },
+      {
+        "name": "Beda Leon SIEBER",
+        "birthdate": "2004-05-20",
+        "birthplace": "Kilchberg, ZH",
+        "hometown": "Au, ZH",
+        "height_cm": 184,
+        "club": "Eislaufclub Küsnacht",
+        "skating_since": 2015,
+        "hobbies": "fashion design, fashion history, sewing"
+      }
+    ],
+    "coach": "Alisa Besseghier, Lucie Myslivečková",
+    "former_coach": "Cornelia Leroy",
+    "choreographer": "Alisa Besseghier, Stéphane Lambiel",
+    "training": "Küsnacht (high season); Bäretswil and Küsnacht (low season), 18 h/week",
+    "music_2026_27": {
+      "rhythm_dance": "Kiss / The Question of U / Let's Go Crazy (Prince)",
+      "free_dance": "Trutalk (Burkhard Dallwitz) / Truman Sleeps / Dreaming of Fiji (Philip Glass) / Escape from Illusion (Karl Hugo), from The Truman Show (kept from 2025/26)"
+    },
+    "isu_personal_bests": {
+      "total": {
+        "score": 154.42,
+        "event": "ISU CS Tallinn Trophy 2025"
+      },
+      "rhythm_dance": {
+        "score": 62.71,
+        "event": "ISU JGP Ljubljana Cup 2024"
+      },
+      "free_dance": {
+        "score": 92.73,
+        "event": "ISU CS Tallinn Trophy 2025"
+      }
+    },
+    "instagram": "gina.and.beda_icedance",
+    "instagram_personal": [
+      "gina.zehnder",
+      "bedaleon.sieber"
+    ],
+    "website": "gina-beda-icedance.com"
+  },
+  "updated": "2026-11-07",
+  "scope_notes": "Covers seasons 2024/25 to 2026/27 (up to 2026-11-07). In 2024/25 they competed at both levels: Junior at JGP Ankara, JGP Ljubljana, Budapest Trophy, Challenge Cup and Junior Worlds, and Senior everywhere else. From 2025/26 on, they compete only as Seniors. Earlier events that are left out: Worlds 2024 (32nd), Junior Worlds 2024 (14th), Ephesus Cup 2024 and Swiss Championships 2024 (junior), Bosphorus Cup 2023, Pavel Roman Memorial 2023, Swiss Open 2023, JGP Istanbul and Gdansk 2023. The list of events was cross-checked against the ISU bio competition list, the fsresults.info couple page and the rinkresults.com skater page. Per Wikipedia, they withdrew from Nepela Memorial 2025 and Trialeti Trophy 2025 because of Zehnder's minor foot surgery.",
+  "competitions": [
+    {
+      "id": "jgp-ankara-2024",
+      "season": "2024/25",
+      "name": "ISU JGP Ankara 2024",
+      "short": "JGP Ankara 2024",
+      "city": "Ankara",
+      "country": "TUR",
+      "start": "2024-09-18",
+      "end": "2024-09-21",
+      "type": "JGP",
+      "place": 5,
+      "participants": 20,
+      "total": 146.58,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 4,
+          "score": 60.85,
+          "tes": 32.26,
+          "pcs": 28.59,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=u2oTUoOtrMw"
+        },
+        {
+          "name": "Free Dance",
+          "place": 6,
+          "score": 85.73,
+          "tes": 43.31,
+          "pcs": 42.42,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=Ob0D4u78we8"
+        }
+      ],
+      "notes": "RD 20.09.2024, FD 21.09.2024. 20 couples.",
+      "sources": [
+        "https://results.isu.org/events/jgptur2024_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2425/jgptur2024/index.htm",
+        "https://results.isu.org/results/season2425/jgptur2024/CAT004RS.htm",
+        "https://results.isu.org/results/season2425/jgptur2024/SEG007.htm",
+        "https://results.isu.org/results/season2425/jgptur2024/SEG008.htm"
+      ],
+      "level": "Junior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DAMIXFtIW4n/",
+          "account": "gina.and.beda_icedance",
+          "date": "2024-09-21",
+          "caption": "“We are pleased with our Rhythm Dance performance. Unfortunately the Free Dance didn’t really go as we would have liked it to.”"
+        },
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/reel/C_3P1OEoQkl/",
+          "account": "gina.and.beda_icedance",
+          "date": "2024-09-13",
+          "caption": "Teaser reel: one more week until JGP Ankara."
+        }
+      ]
+    },
+    {
+      "id": "jgp-ljubljana-cup-2024",
+      "season": "2024/25",
+      "name": "ISU JGP Ljubljana Cup 2024",
+      "short": "JGP Ljubljana 2024",
+      "city": "Ljubljana",
+      "country": "SLO",
+      "start": "2024-10-02",
+      "end": "2024-10-05",
+      "type": "JGP",
+      "place": 5,
+      "participants": 21,
+      "total": 153.29,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 5,
+          "score": 62.71,
+          "tes": 34.63,
+          "pcs": 28.08,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=KjXQJmB4Vbo"
+        },
+        {
+          "name": "Free Dance",
+          "place": 5,
+          "score": 90.58,
+          "tes": 47.94,
+          "pcs": 42.64,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=q6pwMleYRws"
+        }
+      ],
+      "notes": "RD 04.10.2024, FD 05.10.2024. 21 couples. The RD score of 62.71 is still their ISU personal best RD, per their ISU bio.",
+      "sources": [
+        "https://results.isu.org/events/jgpslo2024_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2425/jgpslo2024/index.htm",
+        "https://results.isu.org/results/season2425/jgpslo2024/CAT003RS.htm",
+        "https://results.isu.org/results/season2425/jgpslo2024/SEG005.htm",
+        "https://results.isu.org/results/season2425/jgpslo2024/SEG006.htm"
+      ],
+      "level": "Junior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DA3oq4_o7ic/",
+          "account": "gina.and.beda_icedance",
+          "date": "2024-10-08",
+          "caption": "ISU JGP Ljubljana 🇸🇮, with thanks to coaches Cornelia Leroy and Alisa Besseghier."
+        }
+      ]
+    },
+    {
+      "id": "budapest-trophy-2024",
+      "season": "2024/25",
+      "name": "Budapest Trophy 2024",
+      "short": "Budapest Trophy 2024",
+      "city": "Budapest",
+      "country": "HUN",
+      "start": "2024-10-11",
+      "end": "2024-10-13",
+      "type": "International",
+      "place": 2,
+      "participants": 14,
+      "total": 155.44,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 2,
+          "score": 61.19,
+          "tes": 32.86,
+          "pcs": 28.33,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 2,
+          "score": 94.25,
+          "tes": 49.75,
+          "pcs": 44.5,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Junior event (the senior event was ISU Challenger Series; the junior event was not). RD 11.10.2024, FD 12.10.2024. 14 couples. Silver behind Pidgaina / Koval (UKR).",
+      "sources": [
+        "https://hunskate.hu/external/mukorcsolya/2024_2025/Budapesttrophy2024/index.htm",
+        "https://hunskate.hu/external/mukorcsolya/2024_2025/Budapesttrophy2024/CAT007RS.htm",
+        "https://hunskate.hu/external/mukorcsolya/2024_2025/Budapesttrophy2024/SEG013.htm",
+        "https://hunskate.hu/external/mukorcsolya/2024_2025/Budapesttrophy2024/SEG014.htm"
+      ],
+      "level": "Junior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DBGTiV_I4O0/",
+          "account": "gina.and.beda_icedance",
+          "date": "2024-10-14",
+          "caption": "🥈 at the Budapest Trophy, and “excited to continue the season in the senior category.”"
+        }
+      ]
+    },
+    {
+      "id": "pavel-roman-memorial-2024",
+      "season": "2024/25",
+      "name": "Pavel Roman Memorial 2024",
+      "short": "Pavel Roman 2024",
+      "city": "Olomouc",
+      "country": "CZE",
+      "start": "2024-11-09",
+      "end": "2024-11-10",
+      "type": "International",
+      "place": 3,
+      "participants": 12,
+      "total": 169.07,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 3,
+          "score": 66.88,
+          "tes": 38.53,
+          "pcs": 28.35,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 3,
+          "score": 102.19,
+          "tes": 60.19,
+          "pcs": 43.0,
+          "deductions": 1.0
+        }
+      ],
+      "notes": "Senior event. RD 09.11.2024, FD 10.11.2024. 12 couples. Bronze. FD includes a 1.00 deduction.",
+      "sources": [
+        "https://www.czechskating.org/wp-content/uploads/result_html/63307/index.htm",
+        "https://www.czechskating.org/wp-content/uploads/result_html/63307/CAT001RS.htm",
+        "https://www.czechskating.org/wp-content/uploads/result_html/63307/SEG001.htm",
+        "https://www.czechskating.org/wp-content/uploads/result_html/63307/SEG002.htm"
+      ],
+      "level": "Senior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DCOUEGHI0rP/",
+          "account": "gina.and.beda_icedance",
+          "date": "2024-11-11",
+          "caption": "🥉 bronze in Olomouc at their first senior competition of the season, again reaching the Worlds minimums."
+        }
+      ]
+    },
+    {
+      "id": "bosphorus-cup-2024",
+      "season": "2024/25",
+      "name": "Bosphorus Cup 2024",
+      "short": "Bosphorus Cup 2024",
+      "city": "Istanbul",
+      "country": "TUR",
+      "start": "2024-11-25",
+      "end": "2024-12-01",
+      "type": "International",
+      "place": 4,
+      "participants": 17,
+      "total": 164.78,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 5,
+          "score": 64.77,
+          "tes": 36.57,
+          "pcs": 28.2,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 4,
+          "score": 100.01,
+          "tes": 56.81,
+          "pcs": 43.2,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Senior event. RD 29.11.2024, FD 30.11.2024. 17 couples classified; 3 more withdrew.",
+      "sources": [
+        "https://onlinesonuclar.buzpateni.org.tr/Sezon/2025/250111bosphorus2024/index.htm",
+        "https://onlinesonuclar.buzpateni.org.tr/Sezon/2025/250111bosphorus2024/CAT003RS.htm",
+        "https://onlinesonuclar.buzpateni.org.tr/Sezon/2025/250111bosphorus2024/SEG005.htm",
+        "https://onlinesonuclar.buzpateni.org.tr/Sezon/2025/250111bosphorus2024/SEG006.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "swiss-championships-2025-geneva",
+      "season": "2024/25",
+      "name": "Championnats Suisses Seniors et Juniors 2025, Genève",
+      "short": "Swiss Championships 2025",
+      "city": "Geneva",
+      "country": "SUI",
+      "start": "2024-12-13",
+      "end": "2024-12-15",
+      "type": "National",
+      "place": 1,
+      "participants": 2,
+      "total": 170.37,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 1,
+          "score": 67.58,
+          "tes": 39.88,
+          "pcs": 27.7,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 102.79,
+          "tes": 58.29,
+          "pcs": 44.5,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Swiss senior ice dance champions (category 'SIS Senior Ice Dance'). Held in December 2024, so it counts in season 2024/25. RD 14.12.2024, FD 15.12.2024. Only 2 couples (2nd: Sassi / Morini). Club shown: KUS (Eislaufclub Küsnacht).",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/index.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/CAT010RS.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/SEG007.htm",
+        "https://resultate.swissiceskating.ch/2024_2025/sm/SM_Seniors_Juniors/SEG008.htm"
+      ],
+      "level": "Senior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DDpQvIgofI8/",
+          "account": "gina.and.beda_icedance",
+          "date": "2024-12-16",
+          "caption": "“Senior national champions 🥇 — so thrilled to claim this title.”"
+        }
+      ]
+    },
+    {
+      "id": "ec-2025",
+      "season": "2024/25",
+      "name": "ISU European Figure Skating Championships 2025",
+      "short": "Europeans 2025",
+      "city": "Tallinn",
+      "country": "EST",
+      "start": "2025-01-28",
+      "end": "2025-02-02",
+      "type": "ISU Championship",
+      "place": 23,
+      "participants": 29,
+      "total": 53.44,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 23,
+          "score": 53.44,
+          "tes": 28.23,
+          "pcs": 26.21,
+          "deductions": 1.0,
+          "video": "https://www.youtube.com/watch?v=ZvEDB-hgkOs"
+        }
+      ],
+      "notes": "RD 31.01.2025. 29 couples in the RD (1 more withdrew); only the top 20 qualified for the FD, so they skated the RD only and the total is the RD score. RD includes a 1.00 deduction.",
+      "sources": [
+        "https://results.isu.org/events/ec2025_IceDance.htm",
+        "https://results.isu.org/results/season2425/ec2025/index.htm",
+        "https://results.isu.org/results/season2425/ec2025/CAT004RS.htm",
+        "https://results.isu.org/results/season2425/ec2025/SEG007.htm"
+      ],
+      "level": "Senior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DF-d0SXI8Dq/",
+          "account": "gina.and.beda_icedance",
+          "date": "2025-02-12",
+          "caption": "Post from Europeans: “Things don’t always go as planned but that’s part of being athletes.”"
+        },
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/reel/DFI2XCLoKDz/",
+          "account": "gina.and.beda_icedance",
+          "date": "2025-01-22",
+          "caption": "Reel: a few more days until the European Championships in Tallinn."
+        }
+      ]
+    },
+    {
+      "id": "challenge-cup-2025",
+      "season": "2024/25",
+      "name": "Challenge Cup 2025",
+      "short": "Challenge Cup 2025",
+      "city": "Tilburg",
+      "country": "NED",
+      "start": "2025-02-13",
+      "end": "2025-02-16",
+      "type": "International",
+      "place": 2,
+      "participants": 7,
+      "total": 146.81,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 2,
+          "score": 55.79,
+          "tes": 28.53,
+          "pcs": 28.26,
+          "deductions": 1.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 2,
+          "score": 91.02,
+          "tes": 47.2,
+          "pcs": 43.82,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Junior event, although they had already competed as seniors that season. RD 13.02.2025, FD 14.02.2025. 7 couples classified; 3 more withdrew. Silver. RD includes a 1.00 deduction.",
+      "sources": [
+        "https://www.knsbfigureskatingresults.nl/2024-2025/20250213/index.htm",
+        "https://www.knsbfigureskatingresults.nl/2024-2025/20250213/CAT008RS.htm",
+        "https://www.knsbfigureskatingresults.nl/2024-2025/20250213/SEG015.htm",
+        "https://www.knsbfigureskatingresults.nl/2024-2025/20250213/SEG016.htm"
+      ],
+      "level": "Junior",
+      "verified": true
+    },
+    {
+      "id": "wjc-2025",
+      "season": "2024/25",
+      "name": "ISU World Junior Championships 2025",
+      "short": "Junior Worlds 2025",
+      "city": "Debrecen",
+      "country": "HUN",
+      "start": "2025-02-25",
+      "end": "2025-03-02",
+      "type": "ISU Championship",
+      "place": 12,
+      "participants": 25,
+      "total": 138.99,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 12,
+          "score": 55.72,
+          "tes": 28.94,
+          "pcs": 26.78,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 13,
+          "score": 83.27,
+          "tes": 42.55,
+          "pcs": 40.72,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "RD 26.02.2025, FD 27.02.2025. 25 couples in the RD; 20 qualified for the FD. No single-performance upload from Skating ISU was found; the full Skating ISU livestreams are RD https://www.youtube.com/watch?v=MeIWs8eKMBU and FD https://www.youtube.com/watch?v=leo4McWeVhM.",
+      "sources": [
+        "https://results.isu.org/events/wjc2025_JuniorIceDance.htm",
+        "https://results.isu.org/results/season2425/wjc2025/index.htm",
+        "https://results.isu.org/results/season2425/wjc2025/CAT004RS.htm",
+        "https://results.isu.org/results/season2425/wjc2025/SEG007.htm",
+        "https://results.isu.org/results/season2425/wjc2025/SEG008.htm"
+      ],
+      "level": "Junior",
+      "verified": true
+    },
+    {
+      "id": "wc-2025",
+      "season": "2024/25",
+      "name": "ISU World Figure Skating Championships 2025",
+      "short": "Worlds 2025",
+      "city": "Boston",
+      "country": "USA",
+      "start": "2025-03-25",
+      "end": "2025-03-30",
+      "type": "ISU Championship",
+      "place": 30,
+      "participants": 36,
+      "total": 57.07,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 30,
+          "score": 57.07,
+          "tes": 31.46,
+          "pcs": 25.61,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=M4hft4dqLrA"
+        }
+      ],
+      "notes": "RD 28.03.2025. 36 couples in the RD; only the top 20 qualified for the FD, so the total is the RD score.",
+      "sources": [
+        "https://results.isu.org/events/wc2025_IceDance.htm",
+        "https://results.isu.org/results/season2425/wc2025/index.htm",
+        "https://results.isu.org/results/season2425/wc2025/CAT004RS.htm",
+        "https://results.isu.org/results/season2425/wc2025/SEG007.htm"
+      ],
+      "level": "Senior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DIPC9ydofYw/",
+          "account": "gina.and.beda_icedance",
+          "date": "2025-04-09",
+          "caption": "“Worlds 2025 in Boston marked the end of our season.”"
+        }
+      ]
+    },
+    {
+      "id": "swiss-ice-skating-open-2025",
+      "season": "2025/26",
+      "name": "Swiss Ice Skating Open 2025",
+      "short": "Swiss Open 2025",
+      "city": "Lausanne",
+      "country": "SUI",
+      "start": "2025-10-23",
+      "end": "2025-10-26",
+      "type": "International",
+      "place": 4,
+      "participants": 9,
+      "total": 134.8,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 6,
+          "score": 52.68,
+          "tes": 29.18,
+          "pcs": 23.5,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 4,
+          "score": 82.12,
+          "tes": 48.62,
+          "pcs": 33.5,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Senior event. RD 23.10.2025, FD 24.10.2025. 9 couples. 6th in the RD, 4th in the FD and overall. Season opener after Zehnder's minor foot surgery, which per Wikipedia made them withdraw from Nepela Memorial and Trialeti Trophy in fall 2025.",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/index.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/CAT004RS.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/SEG007.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/Swiss_Ice_Skating_Open_2025/SEG008.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "nrw-trophy-2025",
+      "season": "2025/26",
+      "name": "NRW-Trophy 2025",
+      "short": "NRW Trophy 2025",
+      "city": "Dortmund",
+      "country": "GER",
+      "start": "2025-11-13",
+      "end": "2025-11-16",
+      "type": "International",
+      "place": 6,
+      "participants": 11,
+      "total": 150.45,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 7,
+          "score": 58.43,
+          "tes": 33.16,
+          "pcs": 25.27,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 6,
+          "score": 92.02,
+          "tes": 52.7,
+          "pcs": 39.32,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Senior event. RD 15.11.2025, FD 16.11.2025. 11 couples.",
+      "sources": [
+        "http://deu-event.de/results/NRW/NRWTROPHY2025/index.htm",
+        "http://deu-event.de/results/NRW/NRWTROPHY2025/CAT003RS.htm",
+        "http://deu-event.de/results/NRW/NRWTROPHY2025/SEG005.htm",
+        "http://deu-event.de/results/NRW/NRWTROPHY2025/SEG006.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "tallinn-trophy-2025",
+      "season": "2025/26",
+      "name": "ISU CS Tallinn Trophy 2025",
+      "short": "Tallinn Trophy 2025",
+      "city": "Tallinn",
+      "country": "EST",
+      "start": "2025-11-25",
+      "end": "2025-11-30",
+      "type": "International",
+      "place": 10,
+      "participants": 14,
+      "total": 154.42,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 9,
+          "score": 61.69,
+          "tes": 35.29,
+          "pcs": 26.4,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 11,
+          "score": 92.73,
+          "tes": 52.33,
+          "pcs": 41.4,
+          "deductions": 1.0
+        }
+      ],
+      "notes": "ISU Challenger Series. RD 29.11.2025, FD 30.11.2025. 14 couples. Total 154.42 and FD 92.73 are their ISU personal bests, per their ISU bio. FD includes a 1.00 deduction.",
+      "sources": [
+        "https://current.fsresults.info/2025-2026/CSEST2025/index.htm",
+        "https://current.fsresults.info/2025-2026/CSEST2025/CAT003RS.htm",
+        "https://current.fsresults.info/2025-2026/CSEST2025/SEG005.htm",
+        "https://current.fsresults.info/2025-2026/CSEST2025/SEG006.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "golden-spin-2025",
+      "season": "2025/26",
+      "name": "ISU CS Golden Spin of Zagreb 2025 (57th Golden Spin)",
+      "short": "Golden Spin 2025",
+      "city": "Zagreb",
+      "country": "CRO",
+      "start": "2025-12-03",
+      "end": "2025-12-06",
+      "type": "International",
+      "place": 16,
+      "participants": 20,
+      "total": 140.02,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 16,
+          "score": 53.78,
+          "tes": 29.84,
+          "pcs": 23.94,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 14,
+          "score": 86.24,
+          "tes": 49.34,
+          "pcs": 36.9,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "ISU Challenger Series. RD 04.12.2025, FD 05.12.2025. 20 couples. The organiser has since reused the results folder (it now shows Golden Bear 2026), so the numbers were read from Wayback Machine copies of the official ISUCalcFS pages (CAT004RS 11.02.2026, SEG007 11.02.2026, SEG008 11.02.2026).",
+      "sources": [
+        "https://www.croskate.hr/cscro2025/GS2025/index.htm",
+        "https://www.croskate.hr/cscro2025/GS2025/CAT004RS.htm",
+        "https://www.croskate.hr/cscro2025/GS2025/SEG007.htm",
+        "https://www.croskate.hr/cscro2025/GS2025/SEG008.htm",
+        "https://web.archive.org/web/20260211062001/https://www.croskate.hr/cscro2025/GS2025/CAT004RS.htm",
+        "https://web.archive.org/web/20260211061226/https://www.croskate.hr/cscro2025/GS2025/SEG007.htm",
+        "https://web.archive.org/web/20260211070554/https://www.croskate.hr/cscro2025/GS2025/SEG008.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "swiss-championships-2026-lugano",
+      "season": "2025/26",
+      "name": "Campionati Svizzeri 2026 (Swiss Championships), Lugano",
+      "short": "Swiss Championships 2026",
+      "city": "Lugano",
+      "country": "SUI",
+      "start": "2025-12-19",
+      "end": "2025-12-21",
+      "type": "National",
+      "place": 1,
+      "participants": 2,
+      "total": 161.41,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 2,
+          "score": 62.06,
+          "tes": 34.79,
+          "pcs": 27.27,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 99.35,
+          "tes": 56.85,
+          "pcs": 42.5,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "Swiss senior ice dance champions for the second time. Held in December 2025, so it counts in season 2025/26. 2nd in the RD behind Sassi / Morini, won overall after the FD. RD 20.12.2025, FD 21.12.2025. Only 2 couples.",
+      "sources": [
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/index.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/CAT004RS.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/SEG007.htm",
+        "https://resultate.swissiceskating.ch/2025_2026/sm/SM_Seniors_Juniors/SEG008.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "ec-2026",
+      "season": "2025/26",
+      "name": "ISU European Championships 2026",
+      "short": "Europeans 2026",
+      "city": "Sheffield",
+      "country": "GBR",
+      "start": "2026-01-13",
+      "end": "2026-01-18",
+      "type": "ISU Championship",
+      "place": 21,
+      "participants": 28,
+      "total": 59.12,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 21,
+          "score": 59.12,
+          "tes": 32.18,
+          "pcs": 26.94,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=N9EaWi4xRis"
+        }
+      ],
+      "notes": "RD 16.01.2026. 28 couples in the RD; only the top 20 qualified for the FD, so the total is the RD score.",
+      "sources": [
+        "https://results.isu.org/events/ec2026_IceDance.htm",
+        "https://results.isu.org/results/season2526/ec2026/index.htm",
+        "https://results.isu.org/results/season2526/ec2026/CAT004RS.htm",
+        "https://results.isu.org/results/season2526/ec2026/SEG007.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "maria-olszewska-memorial-2026",
+      "season": "2025/26",
+      "name": "Maria Olszewska Memorial 2026",
+      "short": "Olszewska Memorial 2026",
+      "city": "Lodz",
+      "country": "POL",
+      "start": "2026-02-24",
+      "end": "2026-02-28",
+      "type": "International",
+      "place": 1,
+      "participants": 3,
+      "total": 162.69,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 2,
+          "score": 62.3,
+          "tes": 37.13,
+          "pcs": 25.17,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 1,
+          "score": 100.39,
+          "tes": 61.39,
+          "pcs": 40.0,
+          "deductions": 1.0
+        }
+      ],
+      "notes": "Senior event. Won (2nd in the RD, 1st in the FD). Only 3 couples classified; 3 more withdrew. Segment dates are not shown on the results index; the dates given are for the whole event. FD includes a 1.00 deduction.",
+      "sources": [
+        "https://pzlf-wyniki.pl/2526/MOM2026/index.htm",
+        "https://pzlf-wyniki.pl/2526/MOM2026/CAT003RS.htm",
+        "https://pzlf-wyniki.pl/2526/MOM2026/SEG005.htm",
+        "https://pzlf-wyniki.pl/2526/MOM2026/SEG006.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    },
+    {
+      "id": "wc-2026",
+      "season": "2025/26",
+      "name": "ISU Figure Skating World Championships 2026",
+      "short": "Worlds 2026",
+      "city": "Prague",
+      "country": "CZE",
+      "start": "2026-03-24",
+      "end": "2026-03-29",
+      "type": "ISU Championship",
+      "place": 28,
+      "participants": 31,
+      "total": 59.34,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 28,
+          "score": 59.34,
+          "tes": 32.74,
+          "pcs": 26.6,
+          "deductions": 0.0,
+          "video": "https://www.youtube.com/watch?v=XWPj2WbtH5g"
+        }
+      ],
+      "notes": "RD 27.03.2026. 31 couples in the RD; only the top 20 qualified for the FD, so the total is the RD score.",
+      "sources": [
+        "https://results.isu.org/events/wc2026_IceDance.htm",
+        "https://results.isu.org/results/season2526/wc2026/index.htm",
+        "https://results.isu.org/results/season2526/wc2026/CAT004RS.htm",
+        "https://results.isu.org/results/season2526/wc2026/SEG007.htm"
+      ],
+      "level": "Senior",
+      "verified": true,
+      "instagram": [
+        {
+          "url": "https://www.instagram.com/gina.and.beda_icedance/p/DXALfaaAFUB/",
+          "account": "gina.and.beda_icedance",
+          "date": "2026-04-11",
+          "caption": "“With Worlds marking the end of the season” — thanks to coaches Alisa Besseghier and Lucie Myslivečková."
+        }
+      ]
+    },
+    {
+      "id": "nepela-memorial-2026",
+      "season": "2026/27",
+      "name": "ISU CS 34th Nepela Memorial 2026",
+      "short": "Nepela Memorial 2026",
+      "city": "Bratislava",
+      "country": "SVK",
+      "start": "2026-09-24",
+      "end": "2026-09-27",
+      "type": "International",
+      "place": 14,
+      "participants": 18,
+      "total": 145.42,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 16,
+          "score": 55.53,
+          "tes": 31.26,
+          "pcs": 24.27,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 13,
+          "score": 89.89,
+          "tes": 51.39,
+          "pcs": 38.5,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "ISU Challenger Series. RD 26.09.2026, FD 27.09.2026. 18 couples. The official organiser results site (kraso.sk) blocks automated access with a browser check, and no archived copy after the dance was found, so the numbers come from fsresults.info (which imports the official results). Total, RD and FD match the season bests on their ISU bio and the Wikipedia/rinkresults listings.",
+      "sources": [
+        "https://www.kraso.sk/wp-content/uploads/sutaze/2026_2027/MON26/index.htm",
+        "https://fsresults.info/events/isu-cs-34th-nepela-memorial-2026/senior-ice-dance",
+        "https://fsresults.info/events/isu-cs-34th-nepela-memorial-2026/senior-ice-dance/rhythm-dance",
+        "https://fsresults.info/events/isu-cs-34th-nepela-memorial-2026/senior-ice-dance/free-dance",
+        "https://results.isu.org/bios/isufs00107924.htm"
+      ],
+      "level": "Senior",
+      "verified": false
+    },
+    {
+      "id": "budapest-trophy-2026",
+      "season": "2026/27",
+      "name": "ISU CS Budapest Trophy 2026",
+      "short": "Budapest Trophy 2026",
+      "city": "Budapest",
+      "country": "HUN",
+      "start": "2026-10-16",
+      "end": "2026-10-18",
+      "type": "International",
+      "place": 17,
+      "participants": 22,
+      "total": 144.38,
+      "segments": [
+        {
+          "name": "Rhythm Dance",
+          "place": 19,
+          "score": 55.3,
+          "tes": 31.75,
+          "pcs": 23.55,
+          "deductions": 0.0
+        },
+        {
+          "name": "Free Dance",
+          "place": 15,
+          "score": 89.08,
+          "tes": 50.88,
+          "pcs": 38.2,
+          "deductions": 0.0
+        }
+      ],
+      "notes": "ISU Challenger Series (senior event). RD 16.10.2026, FD 18.10.2026. 22 couples. Their latest result before 2026-11-07.",
+      "sources": [
+        "https://hunskate.hu/external/mukorcsolya/2026_2027/BudTrophy2026/index.htm",
+        "https://hunskate.hu/external/mukorcsolya/2026_2027/BudTrophy2026/CAT003RS.htm",
+        "https://hunskate.hu/external/mukorcsolya/2026_2027/BudTrophy2026/SEG005.htm",
+        "https://hunskate.hu/external/mukorcsolya/2026_2027/BudTrophy2026/SEG006.htm"
+      ],
+      "level": "Senior",
+      "verified": true
+    }
+  ]
+};
